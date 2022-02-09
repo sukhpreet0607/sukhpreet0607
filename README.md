@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gift House Web App**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms **
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
