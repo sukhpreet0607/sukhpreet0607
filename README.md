@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhpreet0607" alt="sukhpreet0607" /></a> </p>
 
-- 🔭 I’m currently working on **Gift House Web App**
+- 🔭 I’m currently working on my **Skills**
 
 - 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms **
 
