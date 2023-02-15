@@ -1,19 +1,17 @@
 <h1 align="center">Heey there 👋,Myself Sukhpreet Singh</h1>
-<h3 align="center">A passionate and enthusiastic frontend developer</h3>
+<h3 align="center">A passionate and enthusiastic Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet0607&label=Profile%20views&color=0e75b6&style=flat" alt="sukhpreet0607" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhpreet0607" alt="sukhpreet0607" /></a> </p>
 
-- 🔭 I’m currently working on my **Skills**
-
-- 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms **
+- 🔭 My passion has been always to solve problems and build things.**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
 - 📝 I regularly write articles on Technology and Programing domain
 
-- 💬 Ask me about **Python ,Java ,C ,OOP**
+- 💬 Ask me about **Python ,C, OOP, React js**
 
 - 📫 How to reach me **sukhpreetsingh06072001@gmail.com**
 
